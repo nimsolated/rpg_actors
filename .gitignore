@@ -1,3 +1,6 @@
+# VSCode files
+.vscode
+
 # VS files
 .vs*
 *.vcx*
