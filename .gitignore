@@ -1,5 +1,7 @@
 # VSCode files
-.vscode
+c_cpp_properties.json
+settings.json
+tasks.json
 
 # VS files
 .vs*
